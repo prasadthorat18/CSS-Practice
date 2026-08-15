@@ -1,4 +1,4 @@
 CSS - APNACLG
 
-All css i learned throughout the Development journey is here
+All css i learned throughout the Development journey is here.
 
